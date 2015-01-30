@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DesingP1</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="btnShowDialogText">Show Dialog</string>
+    <string name="txtValColOneRowOne">normal First Line Second column</string>
+    <string name="btnCloseText">Bezárás</string>
+    <string name="closText">Zárjá be de izibe mer ha nem akkor nem fogom engedni, hogy dógozzá!!</string>
+
+</resources>

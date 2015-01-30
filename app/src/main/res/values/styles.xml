@@ -1,0 +1,11 @@
+<resources>
+
+    <!-- Kite theme lesz.  -->
+    <style name="KiteTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!--Szövegszín zöld háttér előtt kicsit kékes fehér.-->
+        <item name="android:textColor">@color/primary_white</item>
+
+
+    </style>
+
+</resources>
